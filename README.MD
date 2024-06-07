@@ -1,8 +1,8 @@
 
-<h1 align="center">Hi 👋, I'm Chloe</h1>
-<h3 align="center">I'm a dumb transgirl who likes to code :3</h3>
+<h1 align="left">Hi 👋, I'm Chloe</h1>
+<h3 align="left">I'm a dumb transgirl who likes to code :3</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=puppygirlchloe&label=Profile%20views&color=0e75b6&style=flat" alt="puppygirlchloe" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=puppygirlchloe&label=Profile%20views&color=0e75b6&style=flat" alt="puppygirlchloe" /> </p>
 
 - 🔭 I’m currently working on [Genesis Mirror](https://github.com/puppygirlchloe/genesis-mirror)
 
